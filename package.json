@@ -1,0 +1,17 @@
+{
+  "name": "rnm",
+  "version": "0.0.1",
+  "description": "Simple, GUI inspired, interactively renaming CLI",
+  "main": "index.js",
+  "bin": {
+    "rnm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franleplant@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "3.7.0"
+  }
+}
