@@ -11,7 +11,7 @@ const cli = meow(`
       very similar to what GUI interfaces offer.
 
     Usage
-      $ rmn file_name
+      $ irn file_name
 `)
 
 

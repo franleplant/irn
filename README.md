@@ -1,16 +1,16 @@
-#RNM
+#IRN
 
 Simple, GUI inspired, interactively renaming CLI.
 
 ```sh
-npm install -g rnm
+npm install -g irn
 ```
 
 ## Usage
 
 ```sh
-rnm your_file
+irn your_file
 ```
-Then edit the file name and press enter! 
+Then edit the file name and press enter!
 
 
